@@ -8,7 +8,7 @@ Slug: book-review-james-altucher-choose-yourself
 
 On the evening that I finished reading James Altucher's new book *Choose
 Yourself*, the nightly news lead with the story of [260 employees at
-Target's Geelong headquarters being made redundant][].
+Target's Geelong headquarters being made redundant][Target].
 
 Footage showed these newly-unemployed leaving what used to be their
 place of work. Most were visibly upset, many were crying and some
@@ -178,8 +178,7 @@ still not convinced, James has offered to [refund the purchase price][],
 that.
 
   [Choose Yourself]: http://www.jamesaltucher.com/wp-content/uploads/2013/05/chooseyourselfbook.jpg
-  [260 employees at Target's Geelong headquarters being made redundant]:
-    http://www.abc.net.au/news/2013-06-12/target-confirms-up-to-260-jobs-to-go-at-head-office/4747864
+  [Target]: http://www.abc.net.au/news/2013-06-12/target-confirms-up-to-260-jobs-to-go-at-head-office/4747864
   [IBM]: http://www.smh.com.au/it-pro/business-it/ibm-quietly-slashing-australian-jobs-20130619-2oic6.html
   [several others]: http://www.wsws.org/en/articles/2013/06/12/jobs-j12.html
   [mediocre]: http://techcrunch.com/2012/08/19/the-7-habits-of-highly-effective-mediocre-entrepreneurs/

@@ -18,14 +18,14 @@ If the queue of events exceeds *maxqueuelen*, new events are dropped
 indiscriminately. This is obviously undesirable, even if it happens only
 occasionally. But when your zenperfsnmp event queue looks like this...
 
-[![zenperfsnmpd\_events][]][]
+![zenperfsnmpd_events]({filename}/images/zenperfsnmpd_events.png)
 
-...you're likely to be consistently dropping events.<!--more-->
+...you're likely to be consistently dropping events.
 
 Dropped events are accompanied by "**WARNING zen.zenprocess: Queue
 exceeded maximum length"** in the zenperfsnmp log. This problem
 indicates a bottleneck in the processing of the event queue and
-is discussed on the Zenoss forums [here][] and [here][1].
+is discussed on the Zenoss forums [here][zenoss_thread_1] and [here][zenoss_thread_2].
 
 Approaching the problem from one angle, you can attempt to increase your
 capacity for event processing by adding zenworkers. Or you can increase
@@ -66,37 +66,50 @@ the volume is occurring?
 Fortunately there's an easy way. Simply run this python script over your
 newly-verbose log file:
 
-~~~~ {.brush:py}
-#!/bin/env python
+    #!/bin/env python
 
-import ast
-from collections import defaultdict
+    import ast
+    from collections import defaultdict
 
-logFile = '/opt/zenoss/log/zenperfsnmp.log'
-eventClasses = defaultdict(int)
+    logFile = '/opt/zenoss/log/zenperfsnmp.log'
+    eventClasses = defaultdict(int)
 
-# process zenperfsnmp log file
-input = open(logFile)
-line = input.readline()
+    # process zenperfsnmp log file
+    input = open(logFile)
+    line = input.readline()
 
-while line:
+    while line:
     splitLine = line.split('Queueing event ')
     if len(splitLine) > 1:
         eventDict = ast.literal_eval(splitLine[1])
         eventClass = eventDict['eventClass']
         eventClasses[eventClass] += 1
-line = input.readline()
+        line = input.readline()
 
-# sort eventClasses by count
-eventClassesSorted = sorted(eventClasses, key=eventClasses.__getitem__, reverse=True)# output
+    # sort eventClasses by count
+    eventClassesSorted = sorted(eventClasses, key=eventClasses.__getitem__, reverse=True)# output
 
-for key in eventClassesSorted:
-print '%s: %i' % (key, eventClasses[key])
-~~~~
+    for key in eventClassesSorted:
+    print '%s: %i' % (key, eventClasses[key])
 
 The output will show you the count of event raised for each event class:
 
-`[zenoss@myzenserver ~]$ ./zp_count.py /Status/Interface/Duplicity: 42934 /Status/IpInterface: 31233 /Perf/Snmp: 7362 /Change/Set/Status: 6134 /Perf/Filesystem: 710 /Perf/LogicalDisk/RAID: 448 /Perf/Interface: 288 /Status/Snmp: 133 /Perf/Memory: 127 /Perf/Interface/Discards: 83 /Perf/Load: 73 /Perf/CPU: 66 /Heartbeat: 31 /Perf/Interface/Collisions: 30 /Status/Zenoss/EventQueue: 22`
+    zenoss@myzenserver$ ./zp_count.py
+    /Status/Interface/Duplicity: 42934
+    /Status/IpInterface: 31233
+    /Perf/Snmp: 7362
+    /Change/Set/Status: 6134
+    /Perf/Filesystem: 710
+    /Perf/LogicalDisk/RAID: 448
+    /Perf/Interface: 288
+    /Status/Snmp: 133
+    /Perf/Memory: 127
+    /Perf/Interface/Discards: 83
+    /Perf/Load: 73
+    /Perf/CPU: 66
+    /Heartbeat: 31
+    /Perf/Interface/Collisions: 30 
+    /Status/Zenoss/EventQueue: 22
 
 The longer you wait before running the script, the more insight it will
 give you into the events zenperfsnmp is producing. In this case, we
@@ -106,7 +119,5 @@ classes /Status/Interface/Duplicity and /Status/IpInterface.
 If you can reduce unnecessary events, you won't have to worry about
 increasing your capacity to deal with them.
 
-  [zenperfsnmpd\_events]: http://jimter.net/wp-content/uploads/2013/01/zenperfsnmpd_events-300x159.png
-  [![zenperfsnmpd\_events][]]: http://jimter.net/wp-content/uploads/2013/01/zenperfsnmpd_events.png
-  [here]: http://community.zenoss.org/thread/16678
-  [1]: http://community.zenoss.org/message/50316#50316
+  [zenoss_thread_1]: http://community.zenoss.org/thread/16678
+  [zenoss_thread_2]: http://community.zenoss.org/message/50316
