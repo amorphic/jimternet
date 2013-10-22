@@ -10,6 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+# blog info
 AUTHOR = u'James Stewart'
 SITENAME = u'The Jimternet'
 SITEURL = 'http://jimter.net'
@@ -17,10 +18,18 @@ SITESUBTITLE = 'James Stewart Talks About Stuff'
 TIMEZONE = 'Australia/Sydney'
 DEFAULT_LANG = u'en'
 
+# Pelican Base
 RELATIVE_URLS = False
 PAGE_DIR = 'pages'
 DELETE_OUTPUT_DIRECTORY = True
 DEFAULT_PAGINATION = 10
+
+# Plugins
+PLUGIN_PATH = '../pelican-plugins'
+PLUGINS = []
+
+# Static Content
+STATIC_PATHS = (['images'])
 
 # Blogroll
 """
@@ -31,7 +40,7 @@ LINKS =  (
 )
 """
 
-# Social widget
+# Social Widget
 SOCIAL = (
         ('twitter', 'http://twitter.com/amorphic'),
 )
@@ -41,10 +50,12 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # URLs
-ARTICLE_URL = '{slug}/index.html'
+ARTICLE_URL = '{slug}'
 ARTICLE_SAVE_AS = '{slug}/index.html'
-CATEGORY_URL = 'categories/{slug}/index.html'
+CATEGORY_URL = 'categories/{slug}/'
 CATEGORY_SAVE_AS = 'categories/{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 # External
 DISQUS_SITENAME = "jimternet"
