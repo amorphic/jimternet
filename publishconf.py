@@ -43,6 +43,8 @@ LINKS =  (
 # Social Widget
 SOCIAL = (
         ('twitter', 'http://twitter.com/amorphic'),
+        ('lastfm', 'http://lastfm.com/user/Jims101'),
+        ('github', 'http://github.com/amorphic'),
 )
 
 # Feeds
@@ -58,7 +60,9 @@ PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 # External
-DISQUS_SITENAME = "jimternet"
-GOOGLE_ANALYTICS = "UA-1269813-2"
+DISQUS_SITENAME = 'jimternet'
+GOOGLE_ANALYTICS = 'UA-1269813-2'
 TWITTER_INTEGRATION_ENABLED = True
-TWITTER_USERNAME = "amorphic"
+TWITTER_USERNAME = 'amorphic'
+GITHUB_URL = 'http://github.com/amorphic'
+
