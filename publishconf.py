@@ -64,5 +64,3 @@ DISQUS_SITENAME = 'jimternet'
 GOOGLE_ANALYTICS = 'UA-1269813-2'
 TWITTER_INTEGRATION_ENABLED = True
 TWITTER_USERNAME = 'amorphic'
-GITHUB_URL = 'http://github.com/amorphic'
-
