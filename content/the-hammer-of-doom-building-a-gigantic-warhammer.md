@@ -56,7 +56,7 @@ The Hammer of Doom was a big hit at the party, even with the Furries...
 
 ![Mad Furry][Mad Furry]
 
-Much kudos to ![JarOfEyeballs][JarOfEyeballs] for creating the amazing Gigantic Dwarven Hammer and inspiring this project!
+Much kudos to [JarOfEyeballs][JarOfEyeballs] for creating the amazing Gigantic Dwarven Hammer and inspiring this project!
 
 [Hammer Of Doom1]: http://farm4.staticflickr.com/3684/11269233884_e61d51a0d7_c.jpg
 [Hammer Of Doom2]: http://farm8.staticflickr.com/7302/11269207236_1b55313495_c.jpg
