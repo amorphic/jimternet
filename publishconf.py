@@ -22,11 +22,11 @@ DEFAULT_LANG = u'en'
 RELATIVE_URLS = False
 PAGE_DIR = 'pages'
 DELETE_OUTPUT_DIRECTORY = True
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 3
 
 # Plugins
 PLUGIN_PATH = '../pelican-plugins'
-PLUGINS = []
+PLUGINS = ['pelican_youtube']
 
 # Static Content
 STATIC_PATHS = (['images'])

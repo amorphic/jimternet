@@ -2,7 +2,7 @@ Title: The Hammer Of Doom: Building a Gigantic Warhammer
 Date: 2013-12-10 08:00
 Author: James 
 Category: Projects
-Tags: making
+Tags: Making
 Slug: the-hammer-of-doom-building-a-gigantic-warhammer 
 
 Introducing... The Hammer Of Doom:

@@ -2,6 +2,7 @@ Title: Controlling a TOSR0x USB Relay Module Using Python
 Date: 2013-05-08 10:55
 Author: James 
 Category: Projects
+Tags: Python, Making, Tosr0x
 Slug: controlling-a-tosr0x-usb-relay-module-using-python
 
 As part of a forthcoming project to build a computerised thermostat, I
@@ -60,6 +61,8 @@ the TOSR0x. My thermostat is coming along nicely and will be the subject
 of a future post. In the meantime, if you use tosr0x.py for a project of
 your own I'd love to hear about it!
 
+*Update: If you're using your tosr0x to switch mains power, check out [how to build a usb powerboard and control it with python][usb powerboard].*
+
   [relays]: http://en.wikipedia.org/wiki/Relays
   [Raspberry Pi]: http://raspberrypi.org
   [GPIO interface]: www.raspberrypi.org/archives/tag/gpio
@@ -68,3 +71,4 @@ your own I'd love to hear about it!
   [TOSR0x Commands]: http://www.tinyosshop.com/image/data/board_modules/usbrelay4-5.jpg
   [tosr0x.py]: https://github.com/amorphic/tosr0x
   [README.md]: https://github.com/amorphic/tosr0x/blob/master/README.md
+  [usb powerboard]: http://jimter.net/how-to-build-a-usb-powerboard-and-control-it-with-python

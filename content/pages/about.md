@@ -3,9 +3,9 @@ Date: 2010-03-09 11:44
 Author: admin
 Slug: about
 
-My name is James and I am currently employed as a DevOps engineer in Sydney, Australia. My work days and a great deal of my spare time are spent making, breaking and fixing things both inside and outside the realm of technology.
+My name is James Stewart. I'm a music-lover, home-brewer, husband, father and long-time technology enthusiast. An IT professional for over a decade, I am currently employed as a Devops Engineer in Sydney, Australia where I specialise in Linux, Python and Monitoring.
 
-Through all of this I learn a lot and The Jimternet is a place for me to share knowledge that I gather through my experiences. I hope that you find it useful.
+My work days and a great deal of my spare time are spent making, breaking and fixing things both inside and outside the realm of technology. The Jimternet is a place for me to share what I learn along the way.
 
 Contact/follow me:
 
