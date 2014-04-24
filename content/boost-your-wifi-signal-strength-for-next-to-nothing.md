@@ -2,9 +2,9 @@ Title: Boost Your USB WiFi Signal Strength for Next to Nothing
 Date: 2014-02-22 18:00
 Author: James 
 Category: Projects
-Tags: Making Wifi
+Tags: Making, Wifi
 Slug: boost-your-wifi-signal-strength-for-next-to-nothing
-Status: draft
+Status: published 
 
 In my workshop I have a [Raspberry Pi][raspberry pi] whose primary function is to control the temperature of my home brew using [Braubuddy][braubuddy].
 
@@ -46,7 +46,7 @@ To make a more permanent parabolic antenna I folded my square of sarking over it
 
 ![sarking rolled][sarking rolled]
 
-Finally I mounted my creation on one of my workshop's roof beams using a couple of clouts. These also serve to hold the USB cable and wifi adapter in place:
+Finally I mounted my creation on one of my workshop's roof beams using a pair of clouts. These also serve to hold the USB cable and wifi adapter in place:
 
 ![finished reflector][finished reflector]
 
