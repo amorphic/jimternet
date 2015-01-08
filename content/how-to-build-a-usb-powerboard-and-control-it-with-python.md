@@ -172,6 +172,10 @@ Programmatically-switchable power sockets are something of a sledgehammer. They 
 * **Scheduled Wifi** - Increase security by automatically switching off your wireless access point overnight and while you're at work. Or reverse the idea and provide a free wireless service to customers during business hours only.
 
 Happy switching!
+
+_Update Jan 2015: [Anahuac][anahuac] contacted me to tell about the 8-socket USB powerboard he built using the 8-relay tosr0x. Very impressive!_
+
+![anahuac 8-relay][anahuac 8-relay]
   
 [tosr0x]:http://www.tinyosshop.com/index.php?route=product/product&filter_name=tosr02&filter_description=true&product_id=362
 [tosr0x blog]:http://jimter.net/controlling-a-tosr0x-usb-relay-module-using-python/
@@ -187,3 +191,5 @@ Happy switching!
 [powerboard wiring]:http://farm6.staticflickr.com/5541/11709268683_4bc5e1b013_c.jpg
 [finished box]:http://farm3.staticflickr.com/2845/11709399424_b32fbe6e76_c.jpg
 [8-relay tosr0x]:http://www.tinyosshop.com/index.php?route=product/product&path=74_127&product_id=648
+[anahuac]:http://www.anahuac.eu/
+[anahuac 8-relay]:https://farm8.staticflickr.com/7521/16217737512_832e18b860_c.jpg
