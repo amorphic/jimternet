@@ -103,7 +103,7 @@ To switch the mains sockets on and off, the tosr0x' relays will open and close p
 
 ###8. Cut Wires
 
-If using mains cable, strip the outer insulation to extract the individual core wires. Cut The following lengths, each roughly 15cm long, (depending on the size of your box) and strip 5-10mm of insulation from each end:
+If using mains cable, strip the outer insulation to extract the individual core wires. Cut the following lengths, each roughly 15cm long, (depending on the size of your box) and strip 5-10mm of insulation from each end:
 
 * 4 x Active (<font color='brown'>Brown</font>/<font color='red'>Red</font>)
 * 2 x Neutral (<font color='blue'>Blue</font>/<font color='black'>Black</font>)
