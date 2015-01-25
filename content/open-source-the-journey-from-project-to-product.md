@@ -4,7 +4,6 @@ Author: James
 Category: Projects 
 Tags: "open source", python, braubuddy
 Slug: open-source-the-journey-from-project-to-product 
-Status: draft
 
 In their seminal work [Getting Real][getting real], 37 Signals talk about [scratching your own itch][scratch your own itch] when looking for a new project. Well I was itching to brew consistently tasty beer. And brewing consistently tasty beer requires reliable temperature control.
 
