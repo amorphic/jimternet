@@ -112,7 +112,7 @@ _**Last-minute update**: Around the time that I was finishing this post I read [
 [powerboard blog]:http://jimter.net/how-to-build-a-usb-powerboard-and-control-it-with-python
 [tosr0x image]:http://www.tinyosshop.com/image/cache/data/board_modules/TOSR02-1-228x228.jpg
 [tosr0x github]:https://github.com/amorphic/tosr0x
-[tosr0x tinysine]:http://XXXX
+[tosr0x tinysine]:http://www.tinyosshop.com/index.php?route=product/product&path=141_142&product_id=365
 [tosr0x node]:https://www.npmjs.com/package/tosr0x
 [pypi]:http://www.pypi.prg
 [cherrypy]:http://cherrypy.org
