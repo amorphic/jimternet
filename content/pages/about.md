@@ -12,9 +12,10 @@ Contact/follow me:
 - **[Twitter][Twitter]**
 - **[GitHub][GitHub]**
 - **[LinkedIn][LinkedIn]**
-- **[CV][CV]**
+- **[CV][CV]** ([PDF version][CV pdf])
 
-[CV]: https://docs.google.com/document/d/1Lio9H3a0yJzEhHSPPtgarF4nccp81Soxl71M-sAW4pE/edit?usp=sharing
+[CV]: http://amorphic.github.io/
+[CV pdf]: http://amorphic.github.io/james_stewart_cv.pdf
 [LinkedIn]: https://au.linkedin.com/pub/james-stewart/11/98b/86a/
 [Twitter]: https://twitter.com/amorphic
 [GitHub]: https://github.com/amorphic
