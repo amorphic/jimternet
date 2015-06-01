@@ -1,5 +1,5 @@
 Title: SparkCC is Open For Business 
-Date: 2015-05-24 18:00
+Date: 2015-06-01 18:00
 Author: James 
 Category: Projects
 Tags: Makerspace SparkCC
@@ -8,7 +8,7 @@ Status: published
 
 Posts to The Jimternet have been a little thin on the ground in recent months. Of the myriad reasons behind this shortage of missives, one of the most exciting is the birth of SparkCC.
 
-<center>![sparkcc logo][sparkcc logo]</center>
+<center>![sparkcc logo]({filename}/images/sparkcc.png)</center>
 
 ---
 
@@ -20,7 +20,6 @@ Already we count amongst our number talented makers with backgrounds in such wid
 
 I have the honour of being the first holder of the office of SparkCC President and I have no doubt that our makerspace is poised to become a hub of innovation and creativity on the Central Coast. If you love making things or you're interested in learning how to make things follow us on [sparkcc facebook][Facebook], sign up to our [sparkcc mailing list][mailing list], check out our [sparkcc website][website] and above all come along to SparkCC and meet some like-minded makers!
 
-[sparkcc logo]:({filename}/images/sparkcc.png)
 [wikipedia hackerspace]:http://en.wikipedia.org/wiki/Hackerspace
 [sparkcc official]:http://sparkcc.org/sparkcc-is-official/
 [sparkcc facebook]:https://www.facebook.com/sparkcentralcoast
