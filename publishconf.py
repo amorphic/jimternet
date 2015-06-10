@@ -22,7 +22,7 @@ DEFAULT_LANG = u'en'
 RELATIVE_URLS = False
 PAGE_DIR = 'pages'
 DELETE_OUTPUT_DIRECTORY = True
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = 4 
 
 # Plugins
 PLUGIN_PATH = '../pelican-plugins'
