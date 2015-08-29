@@ -23,7 +23,7 @@ Commercial garden boxes tend to be either overpriced or of poor quality. The box
 
 By comparison, fence palings are treated to withstand moisture *and* sunshine. The large custom boxes I made from fence palings a few years ago are still going strong:
 
-<center>![old boxes][old boxes]</center>
+<center>![original boxes][original boxes]</center>
 
 The new boxes described here a similar but slightly improved and more compact design.
 
