@@ -37,6 +37,8 @@ This is what you'll need to make a single 1.2m x 0.6m box. Adjust lengths and qu
 - 1 x 1.2m [garden stake][garden stakes]
 - 48 x ~20mm screws
 
+---
+
 ## Tools
 
 - Saw (a hand saw will do, but an electric drop saw is quicker)
