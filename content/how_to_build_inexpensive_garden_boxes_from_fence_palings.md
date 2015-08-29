@@ -12,10 +12,6 @@ Garden boxes built from fence palings are inexpensive and easy to make. They als
 
 <center>![watering boxes 1][watering boxes 1]</center>
 
-<!--more-->
-
----
-
 Commercial garden boxes tend to be either overpriced or of poor quality. The boxes we purchased on sale from a well-known Australian **Shop** purveying **Reject** goods rotted away to almost nothing in the space of 2 seasons:
 
 <center>![old boxes][old boxes]</center>
@@ -27,6 +23,7 @@ By comparison, fence palings are treated to withstand moisture *and* sunshine. T
 
 The new boxes described here a similar but slightly improved and more compact design.
 
+<!--more-->
 ---
 
 ## Materials
