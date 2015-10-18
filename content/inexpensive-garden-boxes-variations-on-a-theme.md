@@ -24,11 +24,11 @@ Another set of boxes began as a pair of small garden beds for my son and daughte
 
 In the end I got a little over-zealous and cut enough timber to make 5 of these:
 
-<center>![small box parts][small box]</center>
+<center>![small box parts][small box parts]</center>
 
 They do a great job of lining the outer wall of my workshop while providing a whole bunch of new planting space!
 
-<center>![small boxes][small box]</center>
+<center>![small boxes][small boxes]</center>
 
 [inexpensive boxes]:/how-to-build-inexpensive-garden-boxes-from-fence-palings
 [pallet]:https://farm1.staticflickr.com/753/22097276109_40fd948bf3_z.jpg
