@@ -97,6 +97,8 @@ That's it! Put your box in the garden, fill it with soil and plant something!
 
 <center>![completed box][completed box]</center>
 
+_Update 2015-10-19: for ideas on how you might vary this design for your own needs check out [Inexpensive Garden Boxes - Variations on a Theme][variations]._
+
 [watering boxes 1]:https://farm1.staticflickr.com/612/20584132452_8fbd13839c_z.jpg
 [old boxes]:https://farm1.staticflickr.com/664/20593199705_70d074fe06_z.jpg
 [original boxes]:https://farm8.staticflickr.com/7197/6902004819_3881b71167_z.jpg
@@ -110,3 +112,4 @@ That's it! Put your box in the garden, fill it with soil and plant something!
 [step 6]:https://farm6.staticflickr.com/5694/20599750641_62e827e748_z.jpg
 [step 7]:https://farm6.staticflickr.com/5830/20406448919_60ffc11320_z.jpg
 [completed box]:https://farm6.staticflickr.com/5636/20593144685_e6ce523145_z.jpg
+[variations]:/inexpensive-garden-boxes-variations-on-a-theme
