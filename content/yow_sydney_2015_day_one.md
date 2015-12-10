@@ -36,7 +36,7 @@ A wonderful day during which I learned a great deal. Looking forward to day two!
 <center>![loco workshop][loco workshop]</center>
 
 [yow sydney]:http://sydney.yowconference.com.au
-[conways law]:https://en.wikipedia.org/Conway's_law
+[conways law]:https://en.wikipedia.org/wiki/Conway's_law
 [australian technology park]:http://www.atp.com.au
 [A Day in the Life of a Netflix Engineer]:https://github.com/amorphic/yow_2015/blob/master/a_day_in_the_life_of_a_netflix_engineer.md
 [Deploying and Scaling Microservices]:https://github.com/amorphic/yow_2015/blob/master/deploying_and_scaling_microservices.md
