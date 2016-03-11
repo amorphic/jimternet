@@ -30,7 +30,7 @@ The little guy was particularly happy with the yellow and green colour combinati
 I can highly recommend SparkCC's workshops if you're looking for an activity that's interesting, educational and a little different. Or if you can't wait for the next one just get your hands on some EL Wire and get to work on your own illuminated wearable creation!
 
 [EL Wire Wearables workshop]:http://sparkcc.org/el-wire-wearbles-workshop/ 
-[Purple Helmet Unlit]:https://farm2.staticflickr.com/1543/25605555201_e3cc15a873_z.jpg
-[Purple Helmet Lit]:https://farm2.staticflickr.com/1456/25698257225_c0da7674db_z.jpg
+[Purple Helmet Unlit]:https://farm2.staticflickr.com/1456/25698257225_c0da7674db_z.jpg
+[Purple Helmet Lit]:https://farm2.staticflickr.com/1543/25605555201_e3cc15a873_z.jpg
 [Green Helmet Unlit]:https://farm2.staticflickr.com/1590/25698249605_360f27d51d_z.jpg
 [Green Helmet Lit]:https://farm2.staticflickr.com/1696/25067732414_de04aaf75e_z.jpg
