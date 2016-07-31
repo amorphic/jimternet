@@ -4,21 +4,24 @@ Author: James
 Category: Projects
 Tags: garden
 Slug: how-to-build-inexpensive-garden-boxes-from-fence-palings
+Header_Cover: https://farm1.staticflickr.com/612/20584132452_8fbd13839c_z.jpg
 Status: published
 
 Spring is almost upon us and all around Australia garden beds are being prepared for the coming season.
 
 Garden boxes built from fence palings are inexpensive and easy to make. They also look great and best of all they will last for years.
 
-<center>![watering boxes 1][watering boxes 1]</center>
+![watering boxes 1][watering boxes 1]
+
+<!-- PELICAN_END_SUMMARY -->
 
 Commercial garden boxes tend to be either overpriced or of poor quality. The boxes we purchased on sale from a well-known Australian **Shop** purveying **Reject** goods rotted away to almost nothing in the space of 2 seasons:
 
-<center>![old boxes][old boxes]</center>
+![old boxes][old boxes]
 
 By comparison, fence palings are treated to withstand moisture *and* sunshine. The large custom boxes I made from fence palings a few years ago are still going strong:
 
-<center>![original boxes][original boxes]</center>
+![original boxes][original boxes]
 
 The new boxes described here are a similar but slightly improved and more compact design.
 
@@ -59,15 +62,15 @@ First we will make the long sides. Each long side uses 3 palings, staggered so t
 
 Take 3 x 1.2m fence paling lengths and lay them alongside one another on top of 1 x 0.3 garden stake length. Stagger them so that the top and bottom paling lengths protrude roughly 10mm (the thickness of a fence paling):
 
-<center>![step 1][step 1]</center>
+![step 1][step 1]
 
 Attach the paling lengths to the garden stake length with 6 x screws:
 
-<center>![step 2][step 2]</center>
+![step 2][step 2]
 
 At the other end of the paling lengths, repeat the process. Note that the palings are staggered in the opposite order:
 
-<center>![step 3][step 3]</center>
+![step 3][step 3]
 
 Congratulations, you've now completed one side of your box! Repeat the process to build a 2nd long side.
 
@@ -77,25 +80,25 @@ You should now have 2 completed long sides. All that remains is to attach them w
 
 Prop the 2 x long sides up with the staggered 'key' edges facing in opposite directions. Prop a short fence paling length along the ground at each end:
 
-<center>![step 4][step 4]</center>
+![step 4][step 4]
 
 Notice how the short lengths interlock with the long sides? Screw them into place and your box will start to take shape:
 
-<center>![step 5][step 5]</center>
+![step 5][step 5]
 
 Take another pair of short lengths and repeat the process. Almost done!
 
-<center>![step 6][step 6]</center>
+![step 6][step 6]
 
 Take the last pair of short lengths and repeat the process one last time to complete the short sides:
 
-<center>![step 7][step 7]</center>
+![step 7][step 7]
 
 ###4. Get Planting
 
 That's it! Put your box in the garden, fill it with soil and plant something!
 
-<center>![completed box][completed box]</center>
+![completed box][completed box]
 
 _Update 2015-10-19: for ideas on how you might vary this design for your own needs check out [Inexpensive Garden Boxes - Variations on a Theme][variations]._
 

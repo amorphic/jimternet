@@ -4,18 +4,20 @@ Author: James
 Category: Musings 
 Tags: YOW, development
 Slug: yow_2015_sydney_day_one
+Header_Cover: https://farm1.staticflickr.com/591/23033818884_79c503ae1d_z.jpg
 Status: published
 
 [YOW! Sydney][yow sydney] 2015 got off to a great start yesterday. The timing of Australia's leading Software Development conference could not have been more apt given our Government's recent focus on technology and innovation. Likewise the setting of the [Australian Technology Park][australian technology park] evoked the sense of possiblity inherent in Engineering disciplines, Software comfortably juxtaposed against *real* Hardware...
 
-<center>![atp entry][atp entry]</center>
-<!--more-->
+![atp entry][atp entry]
+
+<!-- PELICAN_END_SUMMARY -->
 
 _Below are references to my notes from specific talks. You can check them out collectively in a github repo [here][notes]._
 
 It was great to be able to chat with likeminded hackers and listen as some masters of their craft shared their knowledge, experiences and more than a few of their secrets. Opening the day was keynote speaker Adrian Cockroft who touched upon the [complicated][It's Complicated] nature of software and how best to organise (or not) the engineers who build it. Of course things are often only complicated to us right up until they're not and often they don't have to be - anybody who's seen a 2-yr-old use an iPhone inherently understands this.
 
-<center>![keynote][keynote]</center>
+![keynote][keynote]
 
 Adrian also touched upon Microservices - a hot topic at YOW! 2014 and once again this year. His sentiments that the architecture must follow the organisation (he wouldn't be the last speaker to mention [Conway's Law][conways law]) and the importance of service ownership would be elaborated upon in Randy Shoup's [Pragmatic Microservices][Pragmatic Microservices]. Randy covered just about every question one might have regarding How, Why and When to move to a Microservice architecture and reminded us the importance of using the Right Tool at the Right Time.
 
@@ -23,7 +25,7 @@ Sam Newman's excellent [Deploying and Scaling Microservices][Deploying and Scali
 
 Another tennant of Cockroft's keynote was the importance of imposing Purpose rather than Process ("Teach them to yearn for the vast and endless sea") and this was the central theme of [A Day in the Life of a Netflix Engineer][A Day in the Life of a Netflix Engineer] by Dave Hahn. This engaging and entertaining talk gave insight into how Netflix builds and maintains the systems that account for up to 37%(!) of Internet traffic in the US. The engineer-focussed culture that they have created sounds truly inspirational.  
 
-<center>![netflix flux][netflix flux]</center>
+![netflix flux][netflix flux]
 
 Adan Wolff's [Facebook Product Infrastructure][Facebook Product Infrastructure] provided a peek inside the sausage factory that services over 1 billion(!) users daily. Particularly interesting was the way in which developers are able to deploy new or updated features to specific customers by way of Feature Gating. Adan also discussed the importance of questioning established paradigms as Facebook did when developing platforms such as React and GraphQL
 
@@ -33,7 +35,7 @@ Finally Reid Draper disucssed his experience with [Production Haskell][Productio
 
 A wonderful day during which I learned a great deal. Looking forward to day two!
 
-<center>![loco workshop][loco workshop]</center>
+![loco workshop][loco workshop]
 
 [yow sydney]:http://sydney.yowconference.com.au
 [conways law]:https://en.wikipedia.org/wiki/Conway's_law

@@ -4,12 +4,14 @@ Author: James
 Category: Projects
 Tags: Makerspace SparkCC
 Slug: sparkcc-is-open-for-business
+Header_Color: LightGray
 Status: published
 
 Posts to The Jimternet have been a little thin on the ground in recent months. Of the myriad reasons behind this shortage of missives, one of the most exciting is the birth of SparkCC.
 
-<center>![sparkcc logo][sparkcc logo]</center>
-<!--more-->
+![sparkcc logo][sparkcc logo]
+
+<!-- PELICAN_END_SUMMARY -->
 
 SparkCC is a [makerspace/hackerspace][wikipedia hackerspace] located on the Central Coast of New South Wales, Australia. It is the brainchild of a number of like-minded individuals, most notably our Vice-President Hannes who first raised the idea of creating a 'space on the Central Coast several years ago.
 
