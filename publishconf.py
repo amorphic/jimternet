@@ -66,9 +66,10 @@ LINKS =  (
 
 # Social Widget
 SOCIAL = (
-        ('twitter', 'http://twitter.com/amorphic'),
-        ('lastfm', 'http://lastfm.com/user/Jims101'),
-        ('github', 'http://github.com/amorphic'),
+        ('twitter', 'https://twitter.com/amorphic'),
+        ('lastfm', 'https://lastfm.com/user/Jims101'),
+        ('github', 'https://github.com/amorphic'),
+        ('flickr', 'https://www.flickr.com/22253037@N00/'),
 )
 
 # Feeds
