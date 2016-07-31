@@ -20,16 +20,40 @@ DEFAULT_LANG = u'en'
 
 # Pelican Base
 RELATIVE_URLS = False
-PAGE_DIR = 'pages'
+PAGE_DIRS = [
+    'pages',
+]
 DELETE_OUTPUT_DIRECTORY = True
-DEFAULT_PAGINATION = 4 
+DEFAULT_PAGINATION = 6 
 
 # Plugins
-PLUGIN_PATH = '../pelican-plugins'
-PLUGINS = ['pelican_youtube']
+PLUGIN_PATHS = [
+    '../pelican-plugins',
+]
+PLUGINS = [
+    'pelican_youtube',
+    'summary',
+    'read_more_link',
+]
+
+# Read More
+##SUMMARY_MAX_LENGTH = 50
+READ_MORE_LINK = '<span>Read more...</span>'
+READ_MORE_LINK_FORMAT = '<p><a class="read-more" href="/{url}">{text}</a></p>'
 
 # Static Content
 STATIC_PATHS = (['images'])
+
+# Theme
+THEME = 'pelican-clean-blog'
+HEADER_COLOR = 'Gray'
+
+# Formatting
+SUMMARY_MAX_LENGTH = 50
+FORMATTED_FIELDS = [
+    'Summary',
+    'Header_Cover',
+]
 
 # Blogroll
 """

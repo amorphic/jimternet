@@ -13,23 +13,47 @@ from pelicanconf import *
 # blog info
 AUTHOR = u'James Stewart'
 SITENAME = u'The Jimternet'
-SITEURL = 'http://jimter.net'
-SITESUBTITLE = 'James Stewart Talks About Stuff'
+SITEURL = ''
+SITESUBTITLE = 'James Stewart - Making Stuff'
 TIMEZONE = 'Australia/Sydney'
 DEFAULT_LANG = u'en'
 
 # Pelican Base
 RELATIVE_URLS = True
-PAGE_DIR = 'pages'
+PAGE_DIRS = [
+    'pages',
+]
 DELETE_OUTPUT_DIRECTORY = True
 DEFAULT_PAGINATION = 10
 
 # Plugins
-PLUGIN_PATH = '../pelican-plugins'
-PLUGINS = ['pelican_youtube']
+PLUGIN_PATHS = [
+    '../pelican-plugins',
+]
+PLUGINS = [
+    'pelican_youtube',
+    'summary',
+    'read_more_link',
+]
+
+# Read More
+##SUMMARY_MAX_LENGTH = 50
+READ_MORE_LINK = '<span>Read more...</span>'
+READ_MORE_LINK_FORMAT = '<p><a class="read-more" href="/{url}">{text}</a></p>'
 
 # Static Content
 STATIC_PATHS = (['images'])
+
+# Theme
+THEME = 'pelican-clean-blog'
+HEADER_COLOR = 'Gray'
+
+# Formatting
+SUMMARY_MAX_LENGTH = 50
+FORMATTED_FIELDS = [
+    'Summary',
+    'Header_Cover',
+]
 
 # Blogroll
 """
