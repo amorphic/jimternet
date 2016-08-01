@@ -4,6 +4,9 @@ Author: James
 Category: DevOps
 Tags: Flume
 Slug: installing-flume-0-9-4-example-plugins
+Status: published
+
+
 
 As part of a project for my day job, I've been getting to grips with
 [Flume][]. Chances are that if you've found this post, you're already
@@ -28,6 +31,8 @@ functionality and a custom [Decorator][]:
 > increase reliability via write ahead logging, increase network
 > throughput via batching/compression, sampling, benchmarking, and even
 > lightweight analytics.
+
+<!-- PELICAN_END_SUMMARY -->
 
 Flume ships with source code for some sample plugins called HelloWorld
 and HBaseSink. I planned to use the Decorator component of  the

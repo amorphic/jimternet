@@ -4,10 +4,14 @@ Author: James
 Category: Projects
 Tags: Making
 Slug: the-hammer-of-doom-building-a-gigantic-warhammer 
+Header_Cover: http://farm3.staticflickr.com/2846/11269212774_a0739d9dda_c.jpg
+Status: published
 
 Introducing... The Hammer Of Doom:
 
 ![Hammer Of Doom][Hammer Of Doom1]
+
+<!-- PELICAN_END_SUMMARY -->
 
 To celebrate Halloween this year, some good friends hosted a [LARP][LARP] & [Furries][Furries]-themed costume party. Just days after the event hit Facebook, a post entitled '[Gigantic Dwarven Hammer][Instructables Gigantic Dwarven Hammer]' was featured on Instructables:
 

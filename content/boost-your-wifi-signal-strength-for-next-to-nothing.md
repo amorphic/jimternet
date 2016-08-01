@@ -4,6 +4,7 @@ Author: James
 Category: Projects
 Tags: Making, Wifi
 Slug: boost-your-wifi-signal-strength-for-next-to-nothing
+Header_Cover: https://farm8.staticflickr.com/7059/13949198132_48ccd0f392_c.jpg
 Status: published 
 
 In my workshop I have a [Raspberry Pi][raspberry pi] whose primary function is to control the temperature of my home brew using [Braubuddy][braubuddy].
@@ -17,6 +18,8 @@ Said workshop is part of a detached garage, so I planned to employ a USB WiFi ad
 But as it turned out, the WiFi adapter's tiny internal aerial wasn't capable of maintaining a reliable connection to my Wireless Access Point. On the rare occasions that it did manage to connect, data transfer was hideously slow due to packet loss. Inevitably the link would drop out altogether as Linux' WiFi connection manager gave up in utter despair.
 
 I had resigned myself to buying a USB module with an external aerial until I stumbled across [this article][wooden dish] in my Twitter feed. The author describes a similar predicament to my own as well as his solution: a home-made, foil-covered dish mounted behind his Wifi adapter.
+
+<!-- PELICAN_END_SUMMARY -->
 
 This reminded me of a blog post I read many years ago in which the author utilised a deconstructed Coke can to similar effect. That article is now one of a slew of results returned by a search for '[coke can wifi dish][can dish]'. So it seemed that plenty of people have successfully boosted their Wifi signal strength using these fantastically ghetto [parabolic antennae]. Such a solution would cost me next to nothing, so I set about testing it for myself.
 

@@ -4,6 +4,7 @@ Author: James
 Category: DevOps
 Tags: Zenoss
 Slug: understanding-your-zenperfsnmp-event-queue
+Status: published
 
 Zenoss' zenperfsnmp daemon generates a **lot** of events. In most cases
 it is the leading source of events by a significant margin.
@@ -18,9 +19,11 @@ If the queue of events exceeds *maxqueuelen*, new events are dropped
 indiscriminately. This is obviously undesirable, even if it happens only
 occasionally. But when your zenperfsnmp event queue looks like this...
 
-![zenperfsnmpd_events]({filename}/images/zenperfsnmpd_events.png)
+![Zenperfsnmpd Events][Zenperfsnmp Events]
 
 ...you're likely to be consistently dropping events.
+
+<!-- PELICAN_END_SUMMARY -->
 
 Dropped events are accompanied by "**WARNING zen.zenprocess: Queue
 exceeded maximum length"** in the zenperfsnmp log. This problem
@@ -121,3 +124,6 @@ increasing your capacity to deal with them.
 
   [zenoss_thread_1]: http://community.zenoss.org/thread/16678
   [zenoss_thread_2]: http://community.zenoss.org/message/50316
+
+[Zenperfsnmp Events]:/images/zenperfsnmpd_events.png
+

@@ -4,6 +4,7 @@ Author: James
 Category: Projects
 Tags: Python, Making, Tosr0x
 Slug: controlling-a-tosr0x-usb-relay-module-using-python
+Status: published
 
 As part of a forthcoming project to build a computerised thermostat, I
 require a means of programatically controlling a pair of [relays][] to
@@ -21,7 +22,9 @@ allowing it to control all manner of electronics. However for v1 of my
 thermostat I want to focus on software rather than hardware, so I went
 looking for a relay controller with a USB interface. What I found was
 the TOSR0x:  
-![TOSR0x][]<!--more-->
+![TOSR0x][]
+
+<!-- PELICAN_END_SUMMARY -->
 
 The TOSR0x is an inexpensive USB relay controller board, available in
 2-8 relay models from [tinyosshop.com][] as well as numerous Ebay

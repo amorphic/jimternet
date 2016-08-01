@@ -3,6 +3,7 @@ Date: 2013-07-02 22:03
 Author: James 
 Category: Books
 Slug: book-review-james-altucher-choose-yourself
+Status: published
 
 ![Choose Yourself][]
 
@@ -33,9 +34,11 @@ employees alike. Those who fail to adapt may well be left behind, but a
 new age of opportunity beckons for those willing to embrace a fresh
 approach.
 
+<!-- PELICAN_END_SUMMARY -->
+
 In *Choose Yourself*, James Altucher implores the reader to reconsider
 everything that they've been taught about education, career and how to
-make one's way in the modern world.<!--more-->
+make one's way in the modern world.
 
 James is a highly successful individual, at least for most commonly-held
 definitions of "successful". By most accounts he is highly intelligent

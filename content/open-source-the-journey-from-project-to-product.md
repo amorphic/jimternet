@@ -4,10 +4,13 @@ Author: James
 Category: Projects 
 Tags: "open source", python, braubuddy
 Slug: open-source-the-journey-from-project-to-product 
+Status: published
 
 In their seminal work [Getting Real][getting real], 37 Signals talk about [scratching your own itch][scratch your own itch] when looking for a new project. Well I was itching to brew consistently tasty beer. And brewing consistently tasty beer requires reliable temperature control.
 
 Sure there were thermostats for sale on Ebay for 100 bucks that could keep fermentation temperature consistent. But I could see the [limitations of these][braubuddy background] and knew that a software-based solution would provide the flexibility to do so much more.
+
+<!-- PELICAN_END_SUMMARY -->
 
 Searching the web I was surprised by the lack of an effective Open Source solution that I could either employ or co-opt. So armed with a $5 USB thermometer and some Python-fu I wrote a script and a cron job to take regular temperature readings and record them to a text file.
 
@@ -21,7 +24,7 @@ Periodically recording temperature readings was a good start. What I needed next
 
 Again I was surprised at the dearth of open, cost-effective solutions available. So I embarked on a sub-project to build a USB powerboard which could be controlled via Python. This ultimately resulted in a [Python package to control the 'tosr0x' family of relay modules][tosr0x blog] and [a post detailing how to build a USB powerboard based on one of these modules][powerboard blog].
 
-<center>![tosr0x][tosr0x image]</center>
+![tosr0x][tosr0x image]
 
 The [tosr0x.py][tosr0x github] sub-project has since proven quite popular thanks to a [link on the manufacturer's website][tosr0x tinysine]. It even inspired a [node.js version][tosr0x node]!
 
@@ -45,7 +48,7 @@ If I was going to make Braubuddy into a useful tool that an average home-brewer 
 
 Braubuddy required a web interface and a built-in scheduling system to replace cron. I investigated many web frameworks and eventually settled upon [CherryPy][cherrypy]; an extremely lightweight, Pythonic web framework which happens to provide functionality to schedule background tasks via its [Monitor plugin][monitor plugin].
 
-<center>![cherrypy logo][cherrypy logo]</center>
+![cherrypy logo][cherrypy logo]
 
 As I became more familiar with CherryPy I found two of my product goals conflicting. I absolutely wanted Braubuddy to be extensible so that in future myself or other contributers might add support for new kinds of hardware, new thermostat algorithms and new metric output destinations. But I also wanted Braubuddy to be simple to configure, requiring the user to edit only a single configuration file rather than `braubuddy.conf`, `thermostats.conf`, `outputs.conf` etc.
 
@@ -65,7 +68,7 @@ I was down to the final flourishes now. Braubuddy was sporting a basic (_read: '
 
 I revisited [Bootstrap] and leveraged its [glyphicons][bootstrap components] to label the metrics with pleasing minimalism. Then after evaluating several Javascript charting libraries I got to work learning [NVD3][nvd3]. Design isn't my forté but after a few layout iterations I had an interface I was happy with:
 
-<center>![braubuddy screenshot][braubuddy screenshot]</center>
+![braubuddy screenshot][braubuddy screenshot]
 
 ###Testing###
 
@@ -92,7 +95,7 @@ I asked my social network if anybody knew anybody who might create a basic logo.
 
 By this time I was itching to get a release out the door so I finally bit the bullet and learned the basics of [Inkscape][inkscape]. The result still smacks of "[programmer art][programmer art]" but it'll do until I can find that elusive designer...
 
-<center>![braubuddy logo][braubuddy logo]</center>
+![braubuddy logo][braubuddy logo]
 
 ---
 

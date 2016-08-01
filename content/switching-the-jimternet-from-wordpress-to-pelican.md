@@ -4,6 +4,7 @@ Author: James
 Category: Projects
 Tags: Pelican
 Slug: switching-the-jimternet-from-wordpress-to-pelican
+Status: published
 
 I've just finished migrating The Jimternet from Wordpress to [Pelican][Pelican], a static blog generator written in Python. There are already [plenty][pelican_post_1] of [posts][pelican_post_2] extolling the virtures of Pelican and static blogs in general, so I'll simply share why the static blog paradigm makes sense for me.
 
@@ -13,6 +14,8 @@ This is a powerful paradigm which allows for almost infinite complexity. But by 
 
 Recognising this, Static site generators such as Pelican produce a website composed entirely of html files. Content is authored in either [Markdown][Markdown] or [RST][RST] and the site's configuration is maintained in a single file. When a new piece of content is added, Pelican re-generates the entire site from scratch. The result is a directory of html files, ready to be uploaded to a web server for hosting, (those old enough to have created a website in the 1990's may feel a vague
 sense of deju-vu).
+
+<!-- PELICAN_END_SUMMARY -->
 
 I made the switch to static site generation for a number of reasons:
 

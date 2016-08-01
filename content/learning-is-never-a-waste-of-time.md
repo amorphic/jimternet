@@ -11,6 +11,8 @@ Do you remember learning [trigonometry][trigonometry] in high school? If so, you
 
 I felt the same as everybody else. I had no idea what I wanted to do with my life, but I was reasonably sure it had nothing to do with *sin*, *cos* and *tan*.
 
+<!-- PELICAN_END_SUMMARY -->
+
 Later I found myself studying a sub-major in Computer Graphics as part of my Computing Science degree. My final project was a real-time 3d engine and as it turned out, 3d computer graphics is almost entirely based on trigonometry:
 
 ![3d transformation matrix][3d transformation matrix]

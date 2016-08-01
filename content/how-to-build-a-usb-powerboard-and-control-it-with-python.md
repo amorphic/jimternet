@@ -4,6 +4,8 @@ Author: James
 Category: Projects
 Tags: Tosr0x, Making, Python
 Slug: how-to-build-a-usb-powerboard-and-control-it-with-python
+Header_Cover: http://farm3.staticflickr.com/2845/11709399424_b32fbe6e76_c.jpg
+Status: published
 
 I previously [blogged][tosr0x blog] about the [tosr0x][tosr0x], an inexpensive USB relay controller board which I'm using as part of a computerised thermostat. 
 
@@ -12,6 +14,8 @@ Having creating [tosr0x.py][tosr0x.py] to control the tosr0x' relays using Pytho
 This is a reasonably simple project. It essentially involves wiring together a handful of components and mounting them inside a box. For the sake of neatness I take the mains input from an IEC socket rather than wiring a cable directly.
 
 The finished product is a mains powerboard which can be plugged into a USB port and controlled by anything that can speak to the tosr0x.
+
+<!-- PELICAN_END_SUMMARY -->
 
 **DISCLAIMER:** *Ultimately this project is no more dangerous than wiring a mains plug. If you wouldn't be confident doing that, I strongly suggest that you learn the basics of mains power before continuing. **Mains Power Can Kill You** and I take no responsibility if you damage your property or yourself in the process of building your own USB powerboard.*
 
