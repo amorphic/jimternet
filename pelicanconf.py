@@ -46,7 +46,8 @@ STATIC_PATHS = (['images'])
 
 # Theme
 THEME = 'pelican-clean-blog'
-HEADER_COLOR = 'Gray'
+##HEADER_COLOR = 'Gray'
+HEADER_COVER = '../images/sydney_drones.jpg'
 
 # Formatting
 SUMMARY_MAX_LENGTH = 50
