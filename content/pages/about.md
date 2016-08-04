@@ -4,7 +4,7 @@ Author: admin
 Slug: about
 Header_Cover: /images/sydney_drones.jpg
 
-My name is James Stewart. I'm a music-lover, home-brewer, husband, father maker and long-time technology enthusiast.
+My name is James Stewart. I'm a music-lover, home-brewer, husband, father, maker and long-time technology enthusiast.
 
 An IT professional since around the time the [Millenium Bug][Millenium Bug] was causing a fuss, I currently work remotely from my base on Australia's New South Wales Central Coast as an Open Source Software Developer and DevOps Engineer. Previously I specialised in Linux and Monitoring but these days I'd rather just be coding in Python.
 
