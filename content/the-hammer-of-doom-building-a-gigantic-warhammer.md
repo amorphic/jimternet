@@ -7,7 +7,7 @@ Slug: the-hammer-of-doom-building-a-gigantic-warhammer
 Header_Cover: http://farm3.staticflickr.com/2846/11269212774_a0739d9dda_c.jpg
 Status: published
 
-Introducing... The Hammer Of Doom:
+Introducing... **The Hammer Of Doom**:
 
 ![Hammer Of Doom][Hammer Of Doom1]
 
