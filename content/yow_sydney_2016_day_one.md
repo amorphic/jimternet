@@ -9,7 +9,7 @@ Status: published
 
 It doesn't seem like a year since the Sydney software develoment community last gathered at the [ATP] for the [2015][yow 2015 day one] [edition][yow 2015 day two] of [YOW!][yow sydney]. But time flies when yu're having fun and hopefully you've spent 2016 having as much fun as I have making software and other cool stuff... 
 
-![spark staff yow][spark staff yow]
+![spark staff train][spark staff train]
 
 <!-- PELICAN_END_SUMMARY -->
 
@@ -60,4 +60,5 @@ You may drawa your own conclusions. Looking forward to Day Two!
 [epa]: https://www.epa.gov
 [erik llvm]: https://c7.staticflickr.com/1/654/30678780974_c8c54f63fb_c.jpg
 [fb evolution]: https://c7.staticflickr.com/6/5585/31148222590_e83d80e250_c.jpg
-[brian little videos]:http://www.brianrlittle.com/Topics/media/
+[brian little videos]: http://www.brianrlittle.com/Topics/media/
+[average intercourse]: https://c7.staticflickr.com/1/112/31482337686_3ef30cc721_c.jpg
