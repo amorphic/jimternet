@@ -1,5 +1,5 @@
 Title: YOW! 2016 Sydney Day Two
-Date: 2016-17-09 01:00
+Date: 2016-12-19 12:00
 Author: James 
 Category: Musings 
 Tags: YOW, development
