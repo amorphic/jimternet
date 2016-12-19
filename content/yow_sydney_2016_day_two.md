@@ -7,7 +7,7 @@ Slug: yow_2016_sydney_day_two
 Header_Cover: https://c3.staticflickr.com/1/303/30812145474_66436245a6_c.jpg
 Status: published
 
-After all the fun of [day one][yowpythonic-staff/ 2016 day one] I was a little late arriving at day two of YOW! Sydney 2016 and unfortuantely missed the opening keynote (booooo...). But I eventually arrived back at the old Redfern train workshop, this time brandishing the [Pythonic Staff of Enlightenment][pythonic staff]...
+After all the fun of [day one][yow 2016 day one] was a little late arriving at day two of YOW! Sydney 2016 and unfortuantely missed the opening keynote (booooo...). But I eventually arrived back at the old Redfern train workshop, this time brandishing the [Pythonic Staff of Enlightenment][pythonic staff]...
 
 ![james pythonic][james pythonic]
 
