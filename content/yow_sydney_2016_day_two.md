@@ -7,7 +7,7 @@ Slug: yow_2016_sydney_day_two
 Header_Cover: https://c3.staticflickr.com/1/303/30812145474_66436245a6_c.jpg
 Status: published
 
-After all the fun of [day one][yow 2016 day one] was a little late arriving at day two of YOW! Sydney 2016 and unfortuantely missed the opening keynote (booooo...). But I eventually arrived back at the old Redfern train workshop, this time brandishing the [Pythonic Staff of Enlightenment][pythonic staff]...
+After all the fun of [day one][yow 2016 day one] I was a little late arriving at day two of YOW! Sydney 2016 and unfortuantely missed the opening keynote (booooo...). But I eventually arrived back at the old Redfern train workshop, this time brandishing the [Pythonic Staff of Enlightenment][pythonic staff]...
 
 ![james pythonic][james pythonic]
 
@@ -49,7 +49,7 @@ While we're not all game developers Jon pointed out that we can apply similar me
 
 Emily Webber's _Communities of Practice: The Missing Piece of your Agile Organisation_ was another talk which resonated with me. Having previously worked at a large-ish organisation who attempted (reasonably successfully) to apply the [agile scaling practices of Spotify][scaling agile at spotify] I recognised the similarities between a _Community of Practice_ and Spotify's _Guilds_. I remember voluntarily joining the _Python_ Guild/CoP and finding enoromous value in being part of such a community existing outside of my regular team.
 
-![scaling agile at spotify][scaling agile at spotify]
+![community maturity stages][community maturity stages]
 
 Emily recommendations for starting a CoP were also _remarkably_ similar to my own experience starting our makerspace [SparkCC][sparkcc]. The process of forming a loosely-knit group of like-minded individuals into a more formal community, helping that community to mature and encountering some of the more common pitfalls along the way were all stages we experienced over the past 1.5 years as we grew SparkCC into the established 'space that it is today. The various "levels" of member were also familiar to me not only through the SparkCC community but also through my involvement in Open Source projects. Members exist on these various levels and move between them over time:
 
@@ -67,14 +67,13 @@ With that all that was left was for Dave Thomas to thank all concerned and offic
 
 ![farewell][farewell]
 
-Another interesting, insightful and thoroughly enjoyable ediiton of YOW! See you next year!
+Another interesting, insightful and thoroughly enjoyable ediiton of YOW!. See you next year!
 
 [yow 2016 day one]:/yow_2016_sydney_day_one
 [pythonic staff]:/pythonic-staff/
 [james pythonic]:https://c1.staticflickr.com/1/487/31280958680_d126a831df_c.jpg
 [notes]:https://github.com/amorphic/yow_2016
-[yow topper]:https://www.flickr.com/photos/22253037@N00/31616917106/in/album-72157675872735022/
-[devops factory]:https://www.flickr.com/photos/22253037@N00/30812155444/in/album-72157675872735022/
+[devops factory]:https://c5.staticflickr.com/1/487/30812155444_be709eefa8_c.jpg
 [vault]:https://www.hashicorp.com/vault.html
 [terraform]:https://www.hashicorp.com/terraform.html
 [uncle bob estimation]: https://c2.staticflickr.com/1/436/31653479545_378bdc9c56_c.jpg
