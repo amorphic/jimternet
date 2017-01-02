@@ -3,7 +3,7 @@ Date: 2017-01-02 12:00
 Author: James 
 Category: Projects
 Tags: 3D Printing, Xmas, Making 
-Slug: yow_2016_sydney_day_two
+Slug: build_your_own_snowman_kits 
 Header_Cover: https://c4.staticflickr.com/1/470/31705696931_77300dd0b0_c.jpg
 Status: published
 
