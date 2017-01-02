@@ -17,7 +17,7 @@ As further evidence of the fact that *3D Printing is Awesome* I give you...
 
 <!-- PELICAN_END_SUMMARY -->
 
-This clever little model was created by the people at [Makerbot][Makerbot] and made available for free download on [Thingiverse][Snomwan Thingiverse].
+This clever little model was created by the people at [Makerbot][Makerbot] and made available for free download on [Thingiverse][Snowman Thingiverse].
 
 Having run out of white PLA filament printing the __Yuletide Staff of Festivity__ for [Enstaved][Enstaved] I decided to have another go at printing with a roll of white ABS I picked up a while back but ultimately gave up on.
 
