@@ -13,7 +13,7 @@ from pelicanconf import *
 # blog info
 AUTHOR = u'James Stewart'
 SITENAME = u'The Jimternet'
-SITEURL = 'http://jimter.net'
+SITEURL = 'https://jimter.net'
 SITESUBTITLE = 'James Stewart Talks About Stuff'
 TIMEZONE = 'Australia/Sydney'
 DEFAULT_LANG = u'en'
