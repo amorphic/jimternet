@@ -15,6 +15,8 @@ Introducing... **The Pythonic Staff of Enlightenment**:
 
 The Python Staff of Enlightenment is the perfect companion for [Pythonistas][Pythonista] as they spread [The Zen of Python][The Zen of Python].
 
+__Update 2017-12-3:__ You can now *customise and buy* your very own [Pythonic Staff of Enlightenment at shop.enstaved.com][Enstaved Pythonic]. Better still, [10% of the sale price of every Pythonic Staff of Enlightenment sold goes direct to the Python Software Foundation][Enstaved Blog Pythonic]!
+
 The idea for the staff came to me while looking for something Pythonic to print for my upcoming PyCon AU talk [Controlling a 3D Printer with Python][PyCon AU 3D Printing]. Searching Thingiverse for [Python-related models][Python Thingiverse] yielded a few results but nothing that really grabbed me.
 
 Later while searching for props for my kids' *Elves and Fairies*-themed birthday party I came across some quarterstaff models and I wondered if I could somehow create one that was topped by the Python logo...
@@ -59,3 +61,5 @@ I'll have the Pythonic Staff of Enlightenment with me at PyCon AU for any Aussie
 [Python Staff Album]: https://www.flickr.com/photos/22253037@N00/albums/72157671203271465
 [Eurekaman Designs]: http://www.coroflot.com/BenW
 [SparkCC]: http://sparkcc.org
+[Enstaved Pythonic]: https://shop.enstaved.com/products/pythonic-staff-of-enlightenment-54/
+[Enstaved Blog Pythonic]: https://www.enstaved.com/pythonic-staff-of-enlightenment-now-on-sale/
