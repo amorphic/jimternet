@@ -28,7 +28,7 @@ DEFAULT_PAGINATION = 6
 
 # Plugins
 PLUGIN_PATHS = [
-    '../pelican-plugins',
+    'plugins',
 ]
 PLUGINS = [
     'pelican_youtube',
