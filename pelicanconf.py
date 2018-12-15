@@ -13,18 +13,18 @@ from pelicanconf import *
 # blog info
 AUTHOR = u'James Stewart'
 SITENAME = u'The Jimternet'
-SITEURL = ''
-SITESUBTITLE = 'James Stewart - Making Stuff'
+SITEURL = 'https://jimter.net'
+SITESUBTITLE = 'James Stewart Talks About Stuff'
 TIMEZONE = 'Australia/Sydney'
 DEFAULT_LANG = u'en'
 
 # Pelican Base
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 PAGE_DIRS = [
     'pages',
 ]
 DELETE_OUTPUT_DIRECTORY = True
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 6 
 
 # Plugins
 PLUGIN_PATHS = [
@@ -48,6 +48,7 @@ STATIC_PATHS = (['images'])
 THEME = 'pelican-clean-blog'
 ##HEADER_COLOR = 'Gray'
 HEADER_COVER = '../images/sydney_drones.jpg'
+ADDTHIS_PUBID = 'ra-58a643dd9da972b7'
 
 # Formatting
 SUMMARY_MAX_LENGTH = 50
@@ -68,7 +69,6 @@ LINKS =  (
 # Social Widget
 SOCIAL = (
         ('twitter', 'https://twitter.com/amorphic'),
-        ('lastfm', 'https://lastfm.com/user/Jims101'),
         ('github', 'https://github.com/amorphic'),
         ('flickr', 'https://www.flickr.com/22253037@N00/'),
 )
