@@ -31,7 +31,7 @@ SOCIAL = (('twitter', 'https://twitter.com/amorphic'),
 
 DEFAULT_PAGINATION = 6
 
-RELATIVE_URLS = True
+RELATIVE_URLS = False 
 
 # Theme
 THEME = 'attila'
