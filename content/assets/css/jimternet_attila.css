@@ -1,0 +1,9 @@
+/* Changes to the attila theme specifically for jimter.net */
+
+.container .post {
+    padding: 2em 0
+}
+
+.post-excerpt p {
+    margin: 2em auto
+}
