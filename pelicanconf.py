@@ -77,7 +77,6 @@ AUTHORS_BIO = {
     "twitter": "amorphic",
     "github": "amorphic",
     "location": "Woy Woy",
-    "bio": "This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
-  }
+    "bio": "Technologist with over a decade of experience in IT Ops and an increasing focus on Software Design + Development. Maker and Open Source proponent/contributor with a life-long passion for technology and specialising in Linux, Python, IoT, 3D Printing and Monitoring. Co-founder of Amorphitec, Enstaved and SparkCC. Works remotely."
+    }
 }
-
