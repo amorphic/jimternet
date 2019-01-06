@@ -13,7 +13,16 @@ TIMEZONE = 'Australia/Sydney'
 
 DEFAULT_LANG = 'en'
 
-FEED_ALL_ATOM = None
+# URLs
+ARTICLE_URL = '{slug}'
+ARTICLE_SAVE_AS = '{slug}/index.html'
+CATEGORY_URL = 'categories/{slug}/'
+CATEGORY_SAVE_AS = 'categories/{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
+
+# Feeds
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
