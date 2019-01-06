@@ -29,6 +29,7 @@ RUN pelican -o $OUTPUT_DIR -s $SETTINGS_FILE $CONTENT_DIR
 RUN find $OUTPUT_DIR
 
 FROM nginx AS deploy
+LABEL com.centurylinklabs.watchtower.enable="true"
 ENV BUILD_DIR /jimternet
 ENV OUTPUT_DIR ${BUILD_DIR}/output
 COPY --from=builder ${OUTPUT_DIR} /usr/share/nginx/html/
