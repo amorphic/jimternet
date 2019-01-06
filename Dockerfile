@@ -26,8 +26,10 @@ RUN pip install -r ${BUILD_DIR}/requirements.txt
 RUN pelican-themes -i ${THEMES_DIR}/*
 
 RUN pelican -o $OUTPUT_DIR -s $SETTINGS_FILE $CONTENT_DIR
+RUN find $OUTPUT_DIR
 
 FROM nginx AS deploy
 ENV BUILD_DIR /jimternet
 ENV OUTPUT_DIR ${BUILD_DIR}/output
-COPY --from=builder ${OUTPUT_DIR}/* /usr/share/nginx/html/
+COPY --from=builder ${OUTPUT_DIR} /usr/share/nginx/html/
+RUN find /usr/share/nginx/html
