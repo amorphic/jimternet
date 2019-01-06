@@ -61,6 +61,12 @@ PLUGINS = [
 # Tags
 TAG_CLOUD_STEPS = 4
 
+# Menu
+MENUITEMS = [
+  ("Categories", "/categories.html"),
+  ("Tags", "/tags.html"),
+]
+
 # External
 DISQUS_SITENAME = 'jimternet'
 GOOGLE_ANALYTICS = 'UA-1269813-2'
