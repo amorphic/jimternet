@@ -34,7 +34,7 @@ DEFAULT_PAGINATION = 6
 RELATIVE_URLS = False 
 
 # Theme
-THEME = 'themes/attila'
+THEME = 'attila'
 HEADER_COVER = 'assets/images/sydney_drones.jpg'
 ADDTHIS_PUBID = 'ra-58a643dd9da972b7'
 STATIC_PATHS = ['assets']
