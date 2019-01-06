@@ -4,7 +4,7 @@ Author: James
 Category: Projects
 Tags: garden
 Slug: how-to-build-inexpensive-garden-boxes-from-fence-palings
-Header_Cover: https://farm1.staticflickr.com/612/20584132452_8fbd13839c_z.jpg
+cover: https://farm1.staticflickr.com/612/20584132452_8fbd13839c_z.jpg
 Status: published
 
 Spring is almost upon us and all around Australia garden beds are being prepared for the coming season.

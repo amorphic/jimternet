@@ -4,7 +4,7 @@ Author: James
 Category: Projects
 Tags: Making, Wifi
 Slug: boost-your-wifi-signal-strength-for-next-to-nothing
-Header_Cover: https://farm8.staticflickr.com/7059/13949198132_48ccd0f392_c.jpg
+cover: https://farm8.staticflickr.com/7059/13949198132_48ccd0f392_c.jpg
 Status: published 
 
 In my workshop I have a [Raspberry Pi][raspberry pi] whose primary function is to control the temperature of my home brew using [Braubuddy][braubuddy].

@@ -1,11 +1,11 @@
-Title: A Paper Figure Stand Using OpenSCAD and 3D Printing 
-Date: 2017-02-16 12:00
-Author: James 
-Category: Projects
-Tags: 3D Printing, Making 
-Slug: a_paper_figure_stand_using_openscad_and_3d_printing
-Header_Cover: https://c1.staticflickr.com/4/3949/32101429543_1da68816c9_c.jpg 
-Status: published
+title: A Paper Figure Stand Using OpenSCAD and 3D Printing 
+date: 2017-02-16 12:00
+author: James 
+category: Projects
+tags: 3D Printing, Making 
+slug: a_paper_figure_stand_using_openscad_and_3d_printing
+cover: https://c1.staticflickr.com/4/3949/32101429543_1da68816c9_c.jpg 
+status: published
 
 When a man has children he has bestowed upon him a lengthy catalogue of *fatherly duties*. One of the many roles on this list is that of "Toy Repairman".
 
@@ -17,9 +17,11 @@ So when my daughter broke the (admittedly rather flimsy) paper figure stand that
 
 ...my first thought was to reach for the [Araldite][Araldite], knowing full well that the stand would likely end up back on my workbench after a day or two of enthusiastic play.
 
-My second thought was: *why not solve this problem forever, both for myself and every other Dad/Toy Repairman in the world?*
+My second thought was... 
 
 ![Stand Printed 1][Stand Printed 1]
+
+...*why not solve this problem forever, both for myself and every other Dad/Toy Repairman in the world?*
 
 <!-- PELICAN_END_SUMMARY -->
 

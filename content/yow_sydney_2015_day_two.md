@@ -4,7 +4,7 @@ Author: James
 Category: Musings 
 Tags: YOW, development
 Slug: yow_2015_sydney_day_two
-Header_Cover: https://farm6.staticflickr.com/5676/23629304412_81056eb80a_z.jpg 
+cover: https://farm6.staticflickr.com/5676/23629304412_81056eb80a_z.jpg 
 Status: published
 
 After an interesting and informative [Day One][yow 2015 day one], YOW! 2015 Sydney day two got off to a geektastic start with Anita Sengupta and Kamal Oudrhiri talking about their fascinating work on the [Curiosity Rover][Curiosity Rover]. It was quite humbling to be in the presence of engineers involved in such a groundbreaking project and we heard about interesting problems the team had to solve including how to slow an entry vehicle from 30,000 mph to 0 mph in 7 mins and the infamous [Sol 200][Sol 200] anomaly.

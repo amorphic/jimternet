@@ -4,7 +4,7 @@ Author: James
 Category: Projects
 Tags: Making
 Slug: the-hammer-of-doom-building-a-gigantic-warhammer 
-Header_Cover: http://farm3.staticflickr.com/2846/11269212774_a0739d9dda_c.jpg
+cover: http://farm3.staticflickr.com/2846/11269212774_a0739d9dda_c.jpg
 Status: published
 
 Introducing... **The Hammer Of Doom**:

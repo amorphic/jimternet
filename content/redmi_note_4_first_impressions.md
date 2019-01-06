@@ -4,7 +4,7 @@ Author: James
 Category: Projects
 Tags: Gear 
 Slug: redmi-note-4-first-impressions
-Header_Cover: https://c1.staticflickr.com/6/5771/31068373232_2e4cda35a9_b.jpg
+cover: https://c1.staticflickr.com/6/5771/31068373232_2e4cda35a9_b.jpg
 Status: published
 
 I've always bought mobile phones outright and in 2013 Google made my choice easy when they introduced their much-lauded [Nexus 5][Nexus 5] - a powerful, fully-featured phone at a reasonable price. Sadly after 2 years the battery of my beloved Nexus started to give out and so the time came to source a replacement.

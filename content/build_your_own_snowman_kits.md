@@ -4,7 +4,7 @@ Author: James
 Category: Projects
 Tags: 3D Printing, Xmas, Making 
 Slug: build_your_own_snowman_kits 
-Header_Cover: https://c4.staticflickr.com/1/470/31705696931_77300dd0b0_c.jpg
+cover: https://c4.staticflickr.com/1/470/31705696931_77300dd0b0_c.jpg
 Status: published
 
 With the 2016 school year drawing to a close my daughter and I were looking for something interesting and fun to give out to her classmates with their Christmas cards.

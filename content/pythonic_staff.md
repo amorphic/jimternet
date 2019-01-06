@@ -4,7 +4,7 @@ Author: James
 Category: Projects
 Tags: python, making
 Slug: pythonic-staff
-Header_Cover: https://c7.staticflickr.com/9/8844/27761514414_a93e61a094_c.jpg
+cover: https://c7.staticflickr.com/9/8844/27761514414_a93e61a094_c.jpg
 Status: published
 
 Introducing... **The Pythonic Staff of Enlightenment**:

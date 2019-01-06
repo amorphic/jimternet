@@ -1,8 +1,8 @@
 Title: About
 Date: 2010-03-09 11:44
-Author: admin
+Author: james 
 Slug: about
-Header_Cover: /images/sydney_drones.jpg
+cover: /images/sydney_drones.jpg
 
 My name is James Stewart. I'm a music-lover, home-brewer, husband, father, maker and long-time technology enthusiast.
 

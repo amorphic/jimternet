@@ -125,5 +125,5 @@ increasing your capacity to deal with them.
   [zenoss_thread_1]: http://community.zenoss.org/thread/16678
   [zenoss_thread_2]: http://community.zenoss.org/message/50316
 
-[Zenperfsnmp Events]:/images/zenperfsnmpd_events.png
+[Zenperfsnmp Events]:/assets/images/zenperfsnmpd_events.png
 

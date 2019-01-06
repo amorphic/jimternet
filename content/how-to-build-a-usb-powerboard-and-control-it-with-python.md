@@ -4,7 +4,7 @@ Author: James
 Category: Projects
 Tags: Tosr0x, Making, Python
 Slug: how-to-build-a-usb-powerboard-and-control-it-with-python
-Header_Cover: http://farm3.staticflickr.com/2845/11709399424_b32fbe6e76_c.jpg
+cover: http://farm3.staticflickr.com/2845/11709399424_b32fbe6e76_c.jpg
 Status: published
 
 I previously [blogged][tosr0x blog] about the [tosr0x][tosr0x], an inexpensive USB relay controller board which I'm using as part of a computerised thermostat. 

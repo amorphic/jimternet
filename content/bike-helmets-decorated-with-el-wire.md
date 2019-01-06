@@ -4,7 +4,7 @@ Author: James
 Category: Projects
 Tags: Making
 Slug: bike-helmets-decorated-with-el-wire
-Header_Cover: https://farm2.staticflickr.com/1543/25605555201_e3cc15a873_z.jpg
+cover: https://farm2.staticflickr.com/1543/25605555201_e3cc15a873_z.jpg
 Status: published
 
 Back in October my daughter and I went along to the excellent [EL Wire Wearables workshop][EL Wire Wearables workshop] hosted by our makerspace [SparkCC][SparkCC].

@@ -4,7 +4,7 @@ Author: James
 Category: Musings 
 Tags: YOW, development
 Slug: yow_2016_sydney_day_one
-Header_Cover: https://c1.staticflickr.com/1/515/30678714704_e62d0fecf8_c.jpg
+cover: https://c1.staticflickr.com/1/515/30678714704_e62d0fecf8_c.jpg
 Status: published
 
 It doesn't seem like a year since the Sydney software develoment community last gathered at the [ATP][australian technology park] [2015][yow 2015 day one] [edition][yow 2015 day two] of [YOW!][yow sydney]. But time flies when yu're having fun and hopefully you've spent 2016 having as much fun as I have making software and other cool stuff...

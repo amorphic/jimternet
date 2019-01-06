@@ -4,7 +4,7 @@ Author: James
 Category: Musings 
 Tags: YOW, development
 Slug: yow_2015_sydney_day_one
-Header_Cover: https://farm1.staticflickr.com/591/23033818884_79c503ae1d_z.jpg
+cover: https://farm1.staticflickr.com/591/23033818884_79c503ae1d_z.jpg
 Status: published
 
 [YOW! Sydney][yow sydney] 2015 got off to a great start yesterday. The timing of Australia's leading Software Development conference could not have been more apt given our Government's recent focus on technology and innovation. Likewise the setting of the [Australian Technology Park][australian technology park] evoked the sense of possiblity inherent in Engineering disciplines, Software comfortably juxtaposed against *real* Hardware...

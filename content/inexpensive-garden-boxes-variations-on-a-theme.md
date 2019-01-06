@@ -4,7 +4,7 @@ Author: James
 Category: Projects
 Tags: garden
 Slug: inexpensive-garden-boxes-variations-on-a-theme
-Header_Cover: https://farm1.staticflickr.com/675/22294597401_283d5f6a08_z.jpg
+cover: https://farm1.staticflickr.com/675/22294597401_283d5f6a08_z.jpg
 Status: published
 
 Previously I authored a post describing [how to build inexpensive garden boxes from fence palings][inexpensive boxes]. In it I mentioned that the basic design could be altered to create boxes of different shapes and sizes. With Spring well and truly underway our garden has been a hive of activity and I've been busy creating new beds to fit in various spots around our backyard.
