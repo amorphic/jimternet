@@ -18,7 +18,7 @@ RUN git clone -b $GIT_BRANCH $GIT_REPO $BUILD_DIR
 RUN git clone --recursive $PLUGINS_REPO $PLUGINS_DIR
 # Pending changes to amorphic/attila being pushed upstream
 RUN mkdir $THEMES_DIR
-RUN git clone https://github.com/amorphic/attila ${THEMES_DIR}/attila
+RUN git clone -b add_continue_reading https://github.com/amorphic/attila ${THEMES_DIR}/attila
 ##RUN git clone --recursive $THEMES_REPO $THEMES_DIR
 
 WORKDIR $BUILD_DIR
